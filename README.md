@@ -51,7 +51,7 @@ git push origin feature/your-feature-name
 
 ## Author
 
-[Saikat Mandi] - [Your GitHub Profile](https://github.com/atactoc-sys/)
+[Saikat Mandi] - [atactoc-sys](https://github.com/atactoc-sys/)
 
 ---
 

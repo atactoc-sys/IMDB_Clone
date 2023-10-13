@@ -8,7 +8,6 @@ An IMDb-inspired movie and TV show database website created using HTML, CSS, and
 - [Features](#features)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Author](#author)
 
 ## Demo
